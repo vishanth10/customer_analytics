@@ -1,2 +1,3 @@
 # customer_analytics
-Collection of SEO optimisation, Causal Inference, Ad Optimisation, Growth Analytics Projects
+Collection of Bass modeling, SEO optimisation, Causal Inference, Ad Optimisation, and Growth Analytics Projects
+
